@@ -1,6 +1,6 @@
 ### Hello! My name is Esther and...👋
 
-- 🌱 I’m currently learning AWS, SQL, PySpark, ETL and another tools related to Data Engineer
+- 🌱 I’m currently learning AWS, SQL, PySpark, ETL and another tools related to Data Engineering
 - 👯 I’m looking to collaborate on PyLadies Natal
 - 🔭 I’m currently looking for a position as Data Engineer
 - 💬 Ask me about Data, Python, Cloud, Git and tech communities
