@@ -6,4 +6,4 @@
 - 💬 Ask me about Data, Python, Cloud, Git and tech communities
 - 📫 How to reach me: estheraragaos@gmail.com or https://www.linkedin.com/in/estheraragaos/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm learning German, I like to play chess and I'm practicing belly dance
+- ⚡ Fun fact: I'm learning German and I'm practicing belly dance
